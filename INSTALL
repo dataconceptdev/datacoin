@@ -1,0 +1,9 @@
+Building Datadev
+
+See doc/readme-qt.rst for instructions on building Datadev-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Datadev.
+
+See doc/build-*.txt for instructions on building datadevd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Datadev.
